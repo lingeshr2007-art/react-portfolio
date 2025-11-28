@@ -1,0 +1,45 @@
+.education {
+  background-color: #f0f4f8;
+  padding: 2rem;
+  min-height: 100vh;
+}
+
+.education h1 {
+  text-align: center;
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.education-body {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.education-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  max-width: 600px;
+  width: 100%;
+}
+
+.education-card h6 {
+  color: #777;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.education-card h4 {
+  color: #333;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.education-card h5 {
+  color: #555;
+  font-size: 1.2rem;
+}
